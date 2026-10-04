@@ -41,4 +41,4 @@ Se PLAN.md för detaljerad fil-plan med 9 steg.
 /workspace/src/
 
 ## BRANCH
-main (github.com/svarkor-ai/Game.git)
+main (github.com/bryn1/Game.git)
